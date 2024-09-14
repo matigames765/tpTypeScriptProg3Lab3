@@ -1,0 +1,1 @@
+Este es el trabajo practico de TypeScript de programacion 3 y laboratorio de computacion 3
